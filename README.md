@@ -1,2 +1,5 @@
-# Passport-js
- 
+## Passport-js
+
+# Run
+
+npm run dev
